@@ -1,7 +1,8 @@
 # go-redis-prometheus
 
-[![](https://img.shields.io/github/actions/workflow/status/trim21/go-redis-prometheus/test.yaml?branch=master)](https://github.com/trim21/go-redis-prometheus/actions/workflows/test.yaml)
-[![Go Reference](https://pkg.go.dev/badge/github.com/trim21/go-redis-prometheus.svg)](https://pkg.go.dev/github.com/trim21/go-redis-prometheus)
+[![](https://img.shields.io/github/actions/workflow/status/trim21/go-redis-prometheus/test.yaml?branch=master&style=flat-square)](https://github.com/trim21/go-redis-prometheus/actions/workflows/test.yaml)
+[![Go Reference](https://pkg.go.dev/badge/github.com/trim21/go-redis-prometheus.svg?style=flat-square)](https://pkg.go.dev/github.com/trim21/go-redis-prometheus)
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/trim21/go-redis-prometheus?style=flat-square)
 
 
 [go-redis](https://github.com/redis/go-redis) hook that exports Prometheus metrics.
