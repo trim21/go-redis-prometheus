@@ -1,0 +1,11 @@
+version: "3"
+
+dotenv: [".env"]
+
+tasks:
+  default:
+    silent: true
+    cmds:
+      - task --list
+
+  test: go test ./...
