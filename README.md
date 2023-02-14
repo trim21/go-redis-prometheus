@@ -1,10 +1,6 @@
 # go-redis-prometheus
 
-<p>
-  <img src="https://img.shields.io/github/workflow/status/globocom/go-redis-prometheus/Go?style=flat-square">
-</p>
-
-![](https://img.shields.io/github/actions/workflow/status/trim21/go-redis-prometheus/test.yml?branch=master)
+[![](https://img.shields.io/github/actions/workflow/status/trim21/go-redis-prometheus/test.yaml?branch=master)](https://github.com/trim21/go-redis-prometheus/actions/workflows/test.yaml)
 [![Go Reference](https://pkg.go.dev/badge/github.com/trim21/go-redis-prometheus.svg)](https://pkg.go.dev/github.com/trim21/go-redis-prometheus)
 
 
