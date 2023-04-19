@@ -3,5 +3,6 @@
   "extends": [
     "local>trim21/renovate-config",
     "local>trim21/renovate-config:go"
-  ]
+  ],
+  "separateMinorPatch": true
 }
