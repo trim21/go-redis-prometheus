@@ -5,7 +5,7 @@
     "local>trim21/renovate-config:go"
   ],
   "schedule": [
-    "never"
+    "every 1200 months on the first day of the month"
   ],
   "separateMinorPatch": true,
   "prCreation": "immediate"
