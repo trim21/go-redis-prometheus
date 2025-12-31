@@ -1,10 +1,10 @@
 module github.com/trim21/go-redis-prometheus
 
-go 1.18
+go 1.22.0
 
 require (
 	github.com/prometheus/client_golang v1.18.0
-	github.com/prometheus/client_model v0.6.1
+	github.com/prometheus/client_model v0.6.2
 	github.com/redis/go-redis/v9 v9.4.0
 	github.com/stretchr/testify v1.11.1
 )
@@ -20,6 +20,6 @@ require (
 	github.com/prometheus/common v0.45.0 // indirect
 	github.com/prometheus/procfs v0.12.0 // indirect
 	golang.org/x/sys v0.15.1-0.20231227214551-32cdffc66120 // indirect
-	google.golang.org/protobuf v1.33.0 // indirect
+	google.golang.org/protobuf v1.36.6 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
